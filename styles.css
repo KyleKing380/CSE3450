@@ -1,0 +1,23 @@
+table,
+td,
+tr {
+    border: 1px black solid;
+    padding: 3px 8px 3px 8px;
+}
+
+thead tr {
+    background-color: beige;
+    font-weight: bold;
+}
+
+#insertForm > fieldset {
+    width: 45%;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+#insertForm > fieldset > legend {
+    font-weight: bold;
+    background-color:beige;
+    border: 1px solid black;
+}
